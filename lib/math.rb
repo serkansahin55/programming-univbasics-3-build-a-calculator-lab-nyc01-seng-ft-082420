@@ -14,15 +14,15 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  mult = num1 * num2
-  return mult
+  num1 * num2
+
 end
 
 def modulo(num1, num2)
-  remainder = num1 % num2
+  num1 % num2
 end
 
-def square_root(num)
-  square = num * num
-  return s
-end
+# def square_root(num)
+#   square = num * num
+#   return s
+# end
